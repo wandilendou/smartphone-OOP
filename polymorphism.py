@@ -1,4 +1,4 @@
-# Activity 2: Polymorphism Challenge 🎭
+# Activity 2
 
 # Base Class
 class Vehicle:

@@ -1,4 +1,4 @@
-
+#creating own class OOP practice
 
 # Base Class
 class Smartphone:
